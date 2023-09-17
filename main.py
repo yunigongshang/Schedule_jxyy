@@ -17,6 +17,8 @@ if ret != 0:
     print("没有连接网络，程序即将退出")
     time.sleep(3)
     sys.exit()
+os.system('cls')
+
 
 #处理单双周次和课节的数据
 def jiejc(a):
