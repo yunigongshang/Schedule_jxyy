@@ -189,3 +189,5 @@ workbook.save(f'{xnm}年第{xq}学期{res["xsxx"]["BJMC"]}{res["xsxx"]["XM"]}课
 # 关闭Excel文件
 workbook.close()
 print("导出成功")
+print("3秒后退出")
+time.sleep(3)
