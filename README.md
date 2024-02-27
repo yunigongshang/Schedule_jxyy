@@ -2,6 +2,10 @@
 
 ### 江西应用技术职业学院课表导出为excel
 
+### 效果图
+
+![image](https://github.com/yunigongshang/Schedule_jxyy/blob/main/img.png)
+
 ## 项目介绍
 输入学号，学年，学期即可导出个人课表
 ## 环境
